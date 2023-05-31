@@ -11,7 +11,12 @@ const App = () => {
       <div className="App-images">
         <p>Il va falloir modifier le code pour faire un vrai blind test !</p>
       </div>
-      <div className="App-buttons"></div>
+      <div className="App-buttons">
+        <ol>
+          <li>premier élément</li>
+          <li>second élément</li>
+        </ol>
+      </div>
     </div>
   );
 };
